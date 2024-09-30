@@ -1,4 +1,4 @@
-baseurl: https://nignehs-nay.github.io/nsgcollection/   #部署网址
+baseurl: https://github.com/nignehs-nay/nsgcollection.git   #部署仓库
 languageCode: en-us    #语言代码
 theme: hugo-theme-stack  
 title: Example Site
